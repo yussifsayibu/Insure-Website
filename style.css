@@ -28,6 +28,7 @@ body{
     background-color: var(--Very-Light-Gray--);
     font-size: 16px ;
     font-family: karla;
+    scroll-behavior: smooth;
     
 }
 
